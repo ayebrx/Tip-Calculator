@@ -1,34 +1,37 @@
-# Sistema de Cálculo de Propinas con Historial de Registro
+# 💸 Tip Calculator (Cálculo de Propinas)
 
-Este repositorio contiene un sistema de cálculo de propinas desarrollado en PHP, diseñado específicamente para su uso en restaurantes. El sistema permite gestionar y calcular propinas de manera eficiente, llevando un historial detallado de cada registro. 
+A clean, efficient, and user-friendly **Tip Calculator** designed to help users quickly determine the total amount and tip per person based on a bill subtotal and a selected percentage.
 
-## Características
+---
 
-- **Cálculo de Propinas**: Permite calcular las propinas de acuerdo con las ventas realizadas y el porcentaje de propina configurado.
-- **Historial de Registros**: Mantiene un registro detallado de todas las transacciones de propinas, facilitando el seguimiento y la revisión de los cálculos pasados.
-- **Interfaz de Usuario Intuitiva**: La interfaz está diseñada para ser fácil de usar, permitiendo a los usuarios visualizar y gestionar los cálculos de propinas de manera sencilla.
+### 🛠 Tech Stack
+* **Language/Framework:** [Indica aquí si es C#, Java, Web, etc., ej: C# .NET / JavaScript]
+* **Design Pattern:** [Opcional: Si usas MVC, MVVM, o una arquitectura simple, menciónalo aquí]
+* **Purpose:** A utility tool to demonstrate logical operations and user input handling.
 
-## Tecnologías Utilizadas
+---
 
-- **PHP**: Lenguaje de programación principal utilizado para el desarrollo del sistema.
-- **XAMPP**: Entorno de desarrollo local que proporciona un servidor Apache, MySQL, y PHP, facilitando la configuración y el despliegue local del sistema.
-- **PhpMyAdmin**: Herramienta de administración de bases de datos MySQL, utilizada para gestionar la base de datos del sistema.
+### 🚀 Key Features
+* **Customizable Tip Percentage:** Easily select or input the desired tip rate.
+* **Split Bill Logic:** Split the total amount among a specific number of diners.
+* **Dynamic Calculations:** Instant updates as input values change.
 
-## Instalación
+---
 
-1. Clona el repositorio en tu máquina local:
-    ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    ```
-2. Asegúrate de tener XAMPP instalado y en funcionamiento.
-3. Copia el contenido del repositorio a la carpeta `htdocs` de tu instalación de XAMPP.
-4. Configura la base de datos en PhpMyAdmin utilizando el archivo `db.php` incluido en el repositorio.
+### 💡 Why this project?
+This mini-app is a practical exercise in **handling user input**, **performing mathematical calculations**, and **formatting currency output**. It demonstrates my focus on creating intuitive tools that solve simple but common daily problems.
 
-## Importancia
+---
 
-Este sistema es crucial para los restaurantes que buscan simplificar el proceso de cálculo de propinas y llevar un control exhaustivo de cada transacción. La capacidad de visualizar el historial de registros facilita la gestión financiera y asegura una mayor transparencia en el manejo de las propinas.
+### 📂 How to run
+1. Clone this repository: `git clone https://github.com/ayebrx/CalculoPropinas.git`
+2. Open the project in your preferred IDE.
+3. [Añade aquí un paso rápido de ejecución, ej: "Run the main executable" o "Open index.html in your browser"].
 
-Si tienes alguna pregunta o necesitas asistencia, no dudes en abrir un *issue* o contactarme directamente.
+---
 
-¡Gracias por tu interés en el proyecto!
+### 🔗 Connect
+* **Portfolio:** [www.websyebra.com](https://www.websyebra.com)
+* **LinkedIn:** [linkedin.com/in/ayebrx](https://linkedin.com/in/ayebrx)
 
+*Making calculations simple and efficient.*
